@@ -1,6 +1,5 @@
-# *DanyaCorneum*
 
-![](https://media.tenor.com/GgiEI7_yPHwAAAAM/nier-2b.gif)
+![](https://github.com/DanyaCorneum/DanyaCorneum/blob/main/assets/wallpaper.jpg?raw=true)
 ---
 ### About me 
 My name is *Daniil* and I am a beginner Software Engineer
@@ -9,7 +8,7 @@ My name is *Daniil* and I am a beginner Software Engineer
 
 ### Languages and tools
 
-*__Languages and tools__*:
+
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logogColor=yellow)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=Sqlite&logogColor=yellow)
