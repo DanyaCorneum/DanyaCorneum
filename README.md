@@ -4,12 +4,12 @@
 
 ![](https://github.com/DanyaCorneum/DanyaCorneum/blob/main/assets/wallpaper.jpg?raw=true)
 ---
-<div class="main_style">About me</div>
+<div style="text-align: center;">About me</div>
 <b><p style="text-align: center;">🔥My name is <span style="font-style:italic">Daniil</span> and I am a beginner Software Engineer</p></b>
 
 ---
 
-<div class="main_style"> Languages </div><br>
+<div style="text-align: center;"> Languages </div><br>
 
 
 
@@ -20,15 +20,13 @@
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=Sqlite&logoColor=orange)
 
-<div class="main_style
-">Tools</div><br>
+<div style="text-align: center;">Tools</div><br>
 
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudiocode&logogColor)
 ![GIT](https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=git&logogColor=yellow)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=for-the-badge&logo=AdobePhotoshop&logogColor=yellow)
 
-<div class="main_style
-">Other links</div><br>
+<div style="text-align: center;">Other links</div><br>
 
 [![Steam](https://img.shields.io/badge/-Steam-black?style=for-the-badge&logo=Steam&logogColor)](https://steamcommunity.com/profiles/76561198413798566/)
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor)](t.me/DanyaCorneum)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor)](https://t.me/DanyaCorneum)
