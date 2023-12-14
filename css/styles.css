@@ -1,0 +1,9 @@
+.main_style{
+    color: rgb(255, 147, 251);
+    font-style:normal;
+    font-weight: bolder;
+    background-color: rgba(123, 77, 142, 0.654);
+    border: 2px solid rgb(64, 41, 71);
+    border-radius: 4px
+}
+
