@@ -14,10 +14,10 @@
 
 
 
-![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C&logogColor)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=yellow)
 ![html](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=Sqlite&logoColor=orange)
 
 <div style="text-align: center;">Tools</div><br>
