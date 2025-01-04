@@ -11,9 +11,9 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DanyaCorneum&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DanyaCorneum&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ADFF2F&lines=A+young+fronted+developer+c:)](https://git.io/typing-svg)
 
