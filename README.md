@@ -13,9 +13,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DanyaCorneum&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ADFF2F&lines=A+young+fronted+developer+c:)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanyaCorneum&theme=dark)](https://git.io/streak-stats)
+
+</div>
 
 <div align="center"> Languages </div><br>
 <div align="center">
