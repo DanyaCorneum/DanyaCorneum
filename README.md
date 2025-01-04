@@ -5,12 +5,22 @@
 <div align="center">About me</div>
 <b><p align="center">My name is <span style="font-style:italic">Daniil</span> and I am a beginner Software Engineer </p></b>
 
+![](assets/wallpaper.jpg)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanyaCorneum&show_icons=true&theme=tokyonight)
+
 ---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DanyaCorneum&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ADFF2F&lines=A+young+fronted+developer+c:)](https://git.io/typing-svg)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanyaCorneum&theme=dark)](https://git.io/streak-stats)
+
 <div align="center"> Languages </div><br>
 <div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanyaCorneum&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![html](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue)
