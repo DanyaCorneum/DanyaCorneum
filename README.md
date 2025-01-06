@@ -5,7 +5,7 @@
 <div align="center">About me</div>
 <b><p align="center">My name is <span style="font-style:italic">Daniil</span> and I am a beginner Software Engineer </p></b>
 
-![](assets/wallpaper.jpg)
+![](https://img2.akspic.ru/previews/5/2/6/2/4/142625/142625-liniya-nebo-graficeskij_dizajn-simmetriya-purpurnyj_cvet-x750.jpg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanyaCorneum&show_icons=true&theme=tokyonight)
 
