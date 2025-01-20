@@ -18,7 +18,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ADFF2F&lines=A+young+fronted+developer+c:)](https://git.io/typing-svg)
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=comus3&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=DanyaCorneum&theme=dark&hide_border=false" alt="GitHub Streak" />
 </a>
 
 </div>
