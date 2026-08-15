@@ -1,55 +1,62 @@
-<head>
-<link rel="stylesheet" href="css/styles.css">
-</head>
+# 👋 Привет!
 
-<div align="center">About me</div>
-<b><p align="center">My name is <span style="font-style:italic">Daniil</span> and I am a beginner Software Engineer </p></b>
-
-![](https://img2.akspic.ru/previews/5/2/6/2/4/142625/142625-liniya-nebo-graficeskij_dizajn-simmetriya-purpurnyj_cvet-x750.jpg)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanyaCorneum&show_icons=true&theme=tokyonight)
+Фронтенд-разработчик. Увлекаюсь веб-разработкой, созданием современных интерфейсов и изучением системного программирования, графики и WebAssembly.
 
 ---
 
-<div align="center">
+### 🛠 Мой стек технологий
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DanyaCorneum&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+#### Frontend & UI
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ADFF2F&lines=A+young+fronted+developer+c:)](https://git.io/typing-svg)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=DanyaCorneum&theme=dark&hide_border=false" alt="GitHub Streak" />
-</a>
+#### Фреймворки и State Management
 
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFE56E?style=for-the-badge&logo=vue.js&logoColor=black)
 
-<div align="center"> Languages </div><br>
-<div align="center">
+#### Backend, Tools & New Horizons
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanyaCorneum&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 
-![html](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow)
-![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=Sqlite&logoColor=orange)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=yellow)
+---
 
-</div>
+### 📊 Статистика и активность
 
-<div align="center">Tools</div><br>
-<div align="center">
+#### GitHub Activity
 
-![VSCode](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudiocode&logogColor)
-![GIT](https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=git&logogColor=yellow)
-![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=for-the-badge&logo=AdobePhotoshop&logogColor=yellow)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=DanyaCorneum&show_icons=true&theme=radial&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
 
-</div>
+#### LeetCode
 
-<div align="center"> Other links </div><br>
+<p align="center">
+  <img
+    src="https://leetcode-stats-api.herokuapp.com/Danya_Corneum"
+    alt="LeetCode Stats"
+  />
+</p>
 
-<div align="center">
-
-[![Steam](https://img.shields.io/badge/-Steam-black?style=for-the-badge&logo=Steam&logogColor)](https://steamcommunity.com/profiles/76561198413798566/)
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor)](https://t.me/DanyaCorneum)
-
-</div>
+<p align="center">
+  <img
+    src="https://leetcode-stats-green.vercel.app/Danya_Corneum"
+    alt="LeetCode Stats & Calendar"
+  />
+</p>
