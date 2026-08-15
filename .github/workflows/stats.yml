@@ -74,30 +74,6 @@ jobs:
       # LeetCode
       # ============================================================
 
-      - name: Generate LeetCode Stats
-        uses: lowlighter/metrics@master
-        with:
-          filename: profile/leetcode.svg
-
-          user: DanyaCorneum
-
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          base: ""
-
-          plugin_leetcode: yes
-          plugin_leetcode_user: Danya_Corneum
-          plugin_leetcode_sections: solved,skills,recent
-
-          plugin_leetcode_limit_skills: 8
-          plugin_leetcode_limit_recent: 4
-
-          config_theme: dark
-
-          output_action: none
-
-          plugins_errors_fatal: yes
-
       # ============================================================
       # Commit generated files
       # ============================================================
