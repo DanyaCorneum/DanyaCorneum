@@ -1,10 +1,10 @@
-# 👋 Привет!
+# 👋 Hi!
 
-Фронтенд-разработчик. Увлекаюсь веб-разработкой, созданием современных интерфейсов и изучением системного программирования, графики и WebAssembly.
+Frontend Developer. Passionate about web development, building modern interfaces, and exploring systems programming, computer graphics, and WebAssembly.
 
 ---
 
-### 🛠 Мой стек технологий
+### 🛠 Tech Stack
 
 #### Frontend & UI
 
@@ -15,7 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### Фреймворки и State Management
+#### Frameworks and State Management
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -33,8 +33,6 @@
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 
 ---
-
-### 📊 Статистика и активность
 <p align="center">
   <picture>
     <source
