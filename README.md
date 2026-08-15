@@ -62,16 +62,3 @@
   <img src="./profile/streak.svg" width="800" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img
-    src="./profile/leetcode.svg"
-    alt="LeetCode Stats"
-    width="800"
-  />
-<p align="center">
-  <img
-    src="https://leetcode-stats-green.vercel.app/Danya_Corneum"
-    alt="LeetCode Stats & Calendar"
-  />
-</p>
-
