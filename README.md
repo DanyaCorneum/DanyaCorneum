@@ -39,10 +39,11 @@
 #### GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=DanyaCorneum&show_icons=true&theme=radial&hide_border=true"
-    alt="GitHub Stats"
-  />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 #### LeetCode
