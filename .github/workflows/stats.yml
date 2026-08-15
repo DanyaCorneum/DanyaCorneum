@@ -19,7 +19,7 @@ jobs:
       # ============================================================
 
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       # ============================================================
       # GitHub Stats
@@ -29,7 +29,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: 'username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&bg_color=0D1117&title_color=7AA2F7&text_color=A9B1D6&icon_color=BB9AF7&border_color=292E42&hide_border=true'
+          options: "username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&bg_color=0D1117&title_color=7AA2F7&text_color=A9B1D6&icon_color=BB9AF7&border_color=292E42&hide_border=true"
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -42,7 +42,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide=Jupyter%20Notebook&bg_color=0D1117&title_color=7AA2F7&text_color=A9B1D6&border_color=292E42&hide_border=true'
+          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide=Jupyter%20Notebook&bg_color=0D1117&title_color=7AA2F7&text_color=A9B1D6&border_color=292E42&hide_border=true"
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -54,7 +54,7 @@ jobs:
       - name: Generate GitHub Streak
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: 'user=${{ github.repository_owner }}&background=0D1117&border=292E42&stroke=292E42&ring=7AA2F7&fire=BB9AF7&currStreakNum=7AA2F7&sideNums=A9B1D6&currStreakLabel=7AA2F7&sideLabels=A9B1D6&dates=565F89&disable_animations=true&hide_border=true'
+          options: "user=${{ github.repository_owner }}&background=0D1117&border=292E42&stroke=292E42&ring=7AA2F7&fire=BB9AF7&currStreakNum=7AA2F7&sideNums=A9B1D6&currStreakLabel=7AA2F7&sideLabels=A9B1D6&dates=565F89&disable_animations=true&hide_border=true"
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -75,17 +75,16 @@ jobs:
       # ============================================================
 
       - name: Generate LeetCode Stats
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: profile/leetcode.svg
 
-          # LeetCode plugin doesn't require a LeetCode token
-          token: NOT_NEEDED
+          user: DanyaCorneum
 
-          # Don't generate default GitHub metrics
+          token: ${{ secrets.GITHUB_TOKEN }}
+
           base: ""
 
-          # LeetCode
           plugin_leetcode: yes
           plugin_leetcode_user: Danya_Corneum
           plugin_leetcode_sections: solved,skills,recent
@@ -93,14 +92,14 @@ jobs:
           plugin_leetcode_limit_skills: 8
           plugin_leetcode_limit_recent: 4
 
-          # Dark theme
           config_theme: dark
 
-          # Don't let metrics Action commit by itself
           output_action: none
 
+          plugins_errors_fatal: yes
+
       # ============================================================
-      # Commit everything
+      # Commit generated files
       # ============================================================
 
       - name: Commit generated stats
