@@ -35,29 +35,43 @@
 ---
 
 ### 📊 Статистика и активность
-
-#### GitHub Activity
-
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./profile/github-snake.svg"
+    />
+    <img
+      src="./profile/github-snake.svg"
+      width="800"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
+  <img src="./profile/stats.svg" width="400" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" width="400" alt="Top Languages" />
 </p>
 
-#### LeetCode
+<p align="center">
+  <img src="./profile/streak.svg" width="800" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <img
-    src="https://leetcode-stats-api.herokuapp.com/Danya_Corneum"
+    src="./profile/leetcode.svg"
     alt="LeetCode Stats"
+    width="800"
   />
-</p>
-
 <p align="center">
   <img
     src="https://leetcode-stats-green.vercel.app/Danya_Corneum"
     alt="LeetCode Stats & Calendar"
   />
 </p>
+
