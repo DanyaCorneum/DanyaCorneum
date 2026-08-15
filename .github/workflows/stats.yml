@@ -20,11 +20,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: >-
-            username=DanyaCorneum&
-            show_icons=true&
-            theme=radical&
-            hide_border=true
+          options: 'username=DanyaCorneum&show_icons=true&theme=github_dark&hide_border=true'
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -32,12 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: >-
-            username=DanyaCorneum&
-            layout=compact&
-            langs_count=8&
-            theme=radical&
-            hide_border=true
+          options: 'username=DanyaCorneum&show_icons=true&theme=github_dark&hide_border=true'
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
