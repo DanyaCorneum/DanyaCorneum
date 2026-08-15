@@ -81,7 +81,7 @@ jobs:
 
           user: DanyaCorneum
 
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           base: ""
 
